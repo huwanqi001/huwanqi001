@@ -1,1 +1,3 @@
 hello world
+mac install Andorid Studio and setting: https://www.jianshu.com/p/79901ef8556a
+android release apk:     https://blog.csdn.net/weixin_42804410/article/details/85230738
